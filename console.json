@@ -1,0 +1,30 @@
+[
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6d",
+    "updateDate": "2018-12-20T00:00:00.0Z",
+    "titleText": "Un nuovo gioco misterioso sarà disponibile oggi",
+    "mainText": "Un nuovo gioco misterioso sarà disponibile oggi",
+    "redirectionUrl": "https://www.xbox.com/it-IT/xbox-game-pass"
+  },  
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6c",
+    "updateDate": "2018-12-13T00:00:00.0Z",
+    "titleText": "PES 2019 è ora disponibile per il download, nella versione LITE",
+    "mainText": "PES 2019 disponibile per il download su Xbox Game Pass",
+    "redirectionUrl": "https://www.xbox.com/it-IT/xbox-game-pass"
+  },
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b",
+    "updateDate": "2018-12-09T00:00:00.0Z",
+    "titleText": "Giochi disponibili a breve",
+    "mainText": "A breve sarà disponibile PES 2019",
+    "redirectionUrl": "https://www.xbox.com/it-IT/xbox-game-pass"
+  },
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6a",
+    "updateDate": "2018-12-07T00:00:00.0Z",
+    "titleText": "Nuovi giochi Xbox Pass disponibili a Dicembre",
+    "mainText": "Mortal Kombat XL",
+    "redirectionUrl": "https://www.xbox.com/it-IT/xbox-game-pass"
+  }
+]

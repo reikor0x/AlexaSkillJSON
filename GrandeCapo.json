@@ -1,9 +1,23 @@
-{"response":{"shouldEndSession":true,"reprompt":{"outputSpeech":
-	{"text":"Il grande capo Esticazzih in finale pensa che","type":"PlainText"}},
-	"card":{"content":"Il grande capo Esticazzih in finale pensa che",
-	"title":"Horoscope","type":"Simple"},
-	"outputSpeech":{"text":"Il grande capo Esticazzih in finale pensa che","type":"PlainText"}},
-	"sessionAttributes":{"supportedHoroscopePeriods":{"monthly":false,"weekly":false,"daily":true}
-	},
-"version":"1.0"
+{
+    "body": {
+        "version": "1.0",
+        "response": {
+            "outputSpeech": {
+                "type": "PlainText",
+                "text": "Il grande capo Esticazzih in finale pensa che"
+            },
+            "card": {
+                "type": "Simple",
+                "title": "",
+                "content": ""
+            },
+            "reprompt": {
+                "outputSpeech": {
+                    "type": "PlainText",
+                    "text": "Il grande capo Esticazzih in finale pensa che"
+                }
+            },
+            "shouldEndSession": value
+        }
+    }
 }

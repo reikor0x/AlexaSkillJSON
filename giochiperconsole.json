@@ -1,6 +1,13 @@
 [
   {
-    "uid": "urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6h",
+    "uid": "urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6m",
+    "updateDate": "2019-03-07T00:00:00.0Z",
+    "titleText": "Just Cause 4 e' disponibile tramite x box game pass",
+    "mainText": "Just Cause 4 e' disponibile tramite x box game pass",
+    "redirectionUrl": "https://www.xbox.com/it-IT/xbox-game-pass"
+  },  
+  {
+    "uid": "urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6l",
     "updateDate": "2019-02-22T00:00:00.0Z",
     "titleText": "Anthem è ora disponibile per PC, x box e ps4",
     "mainText": "Anthem è ora disponibile per PC, x box e ps4",

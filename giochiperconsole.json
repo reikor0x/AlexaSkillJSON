@@ -1,5 +1,33 @@
 [
   {
+    "uid": "urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6t",
+    "updateDate": "2019-04-24T00:00:00.0Z",
+    "titleText": "Domani Resident Evil 5 sara' disponibile tramite x box game pass",
+    "mainText": "Domani Resident Evil 5 sara' disponibile tramite x box game pass",
+    "redirectionUrl": "https://www.xbox.com/it-IT/xbox-game-pass"
+  }, 
+  {
+    "uid": "urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6s",
+    "updateDate": "2019-04-18T00:00:00.0Z",
+    "titleText": "Monster Hunter World e' disponibile tramite x box game pass",
+    "mainText": "Monster Hunter World e' disponibile tramite x box game pass",
+    "redirectionUrl": "https://www.xbox.com/it-IT/xbox-game-pass"
+  }, 
+  {
+    "uid": "urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6r",
+    "updateDate": "2019-04-11T00:00:00.0Z",
+    "titleText": "The Golf Club 2 e' disponibile tramite x box game pass",
+    "mainText": "The Golf Club 2 e' disponibile tramite x box game pass",
+    "redirectionUrl": "https://www.xbox.com/it-IT/xbox-game-pass"
+  }, 
+  {
+    "uid": "urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6q",
+    "updateDate": "2019-04-04T00:00:00.0Z",
+    "titleText": "Minecraft e' disponibile tramite x box game pass",
+    "mainText": "Minecraft e' disponibile tramite x box game pass",
+    "redirectionUrl": "https://www.xbox.com/it-IT/xbox-game-pass"
+  }, 
+  {
     "uid": "urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6p",
     "updateDate": "2019-03-23T00:00:00.0Z",
     "titleText": "Ad aprile sara' disponibile Minecraft tramite x box game pass",

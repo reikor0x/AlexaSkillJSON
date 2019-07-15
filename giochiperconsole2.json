@@ -1,5 +1,21 @@
 [
   {
+    "uid": "urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6c",
+    "updateDate": "2019-07-15T00:00:00.0Z",
+    "titleText": "Dead Rising 4 e LEGO City Undercover sono disponibili su x box game pass",
+    "mainText": "Dead Rising 4 e LEGO City Undercover sono disponibili gratuitamente per il download su x box game pass",
+    "redirectionUrl": "https://www.xbox.com/it-IT/xbox-game-pass"
+  },
+
+  {
+    "uid": "urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6b",
+    "updateDate": "2019-07-08T00:00:00.0Z",
+    "titleText": "Dalla prossima settimana disponibile Beta Test di Gears 5 per i possessori di x box game pass",
+    "mainText": "Dalla prossima settimana sara' disponibile una modalita' di testing tecnico di Gear 5 dedicata ai possessori di x box game pass e per chi lo ha pre ordinato, anche su PC",
+    "redirectionUrl": "https://www.xbox.com/it-IT/xbox-game-pass"
+  },
+
+  {
     "uid": "urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6a",
     "updateDate": "2019-07-02T00:00:00.0Z",
     "titleText": "x box game pass ultimate è finalmente disponibile",

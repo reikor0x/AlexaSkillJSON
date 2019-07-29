@@ -1,9 +1,16 @@
 [
   {
+    "uid": "urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6f",
+    "updateDate": "2019-07-29T00:00:00.0Z",
+    "titleText": "Resident Evil 4 e' disponibile su x box game pass",
+    "mainText": "Resident Evil 4 e' disponibile su x box game pass",
+    "redirectionUrl": "https://www.xbox.com/it-IT/xbox-game-pass"
+  },
+  {
     "uid": "urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6e",
     "updateDate": "2019-07-24T00:00:00.0Z",
-    "titleText": "Killer Instinct sara' disponibile a brevissimo, forse gia' domani, su x box game pass",
-    "mainText": "Killer Instinct sara' disponibile a brevissimo, forse gia' domani, su x box game pass",
+    "titleText": "Killer Instinct e' disponibile su x box game pass",
+    "mainText": "Killer Instinct e' disponibile su x box game pass",
     "redirectionUrl": "https://www.xbox.com/it-IT/xbox-game-pass"
   },
   {
